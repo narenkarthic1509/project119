@@ -1,0 +1,23 @@
+body{
+    background-size: cover;
+}
+
+.heading div{
+    background-color:#00004d;
+    border-radius: 15px;
+}
+
+#object-btn{
+border-radius: 10px;
+height: 35px;
+width: 150px;
+box-shadow: 5px 5px 18px yellow;
+}
+
+#accuracy-btn{
+border-radius: 10px;
+height: 35px;
+width: 150px;
+box-shadow: 5px 5px 18px yellow;
+}
+
